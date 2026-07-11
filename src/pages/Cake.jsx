@@ -1,4 +1,4 @@
-import Cakes from "../data/Cakes.jsx";
+import cakes from "../data/Cakes";
 import CakeCard from "../components/CakeCard";
 
 function Cake({ addToCart }) {
